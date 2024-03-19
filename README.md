@@ -1,1 +1,1 @@
-# End-to-End-Data-Science-Projevcts
+# End-to-End-Data-Science-Projects
