@@ -1,5 +1,0 @@
-In this project, I developed a classification model to assess the quality of restaurants based on their ratings. I engineered a new binary column that assigns a value of 1 if the rating is 3.75 or higher, and 0 otherwise.
-
-I explored various classification algorithms, fine-tuned them, and identified the most suitable one for this task.
-
-Finally, I deployed the model on Streamlit Cloud for easy access and interaction.

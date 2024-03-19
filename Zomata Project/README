@@ -1,0 +1,8 @@
+Project Summary
+In this project, I focused on creating a robust classification model to evaluate the quality of restaurants by leveraging the ratings provided. I engineered a new binary column that categorizes restaurants as either good (assigned a value of 1) if the rating is 3.75 or above, or not good (assigned a value of 0) otherwise.
+
+Approach
+I extensively experimented with various classification algorithms, meticulously fine-tuned them, and meticulously selected the optimal algorithm for this specific problem.
+
+Deployment
+The final model was deployed on Streamlit Cloud, enabling seamless access and user-friendly interaction.
