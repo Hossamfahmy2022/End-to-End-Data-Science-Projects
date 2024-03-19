@@ -1,0 +1,28 @@
+End-to-End Data Science Project Overview
+1. Exploratory Data Analysis (EDA)
+Univariate Analysis:
+Investigated each feature type and values.
+Bivariate/Multivariate Analysis:
+Explored the relationships between features.
+Data Cleaning:
+Ensured data is properly cleaned for analysis.
+Business Questions:
+Formulated business questions that can be answered through data analysis and visualization.
+2. Data Preparation for Regression Task
+Missing Data Handling:
+Dealt with missing data.
+Outlier Treatment:
+Addressed outliers if present.
+Feature Engineering:
+Engineered new features to enhance model performance.
+Categorical Encoding:
+Encoded categorical features using appropriate techniques.
+Feature Scaling:
+Conducted feature scaling if necessary.
+3. Machine Learning Modeling
+Regression Model Building:
+Developed a regression model to predict airline flight prices.
+4. Deployment
+Model Deployment:
+Deployed the regression model using Streamlit Cloud for easy access and interaction.
+This project encompasses the entire data science pipeline, from exploratory data analysis to machine learning modeling and deployment, ensuring a comprehensive and structured approach to solving the problem at hand.
